@@ -1,0 +1,13 @@
+beautifulsoup4
+matplotlib
+nltk
+numpy
+pandas
+plotly
+psycopg2-binary
+regex
+scikit-learn
+scipy
+seaborn
+sqlalchemy
+statsmodels
