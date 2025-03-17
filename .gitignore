@@ -10,3 +10,4 @@ sentiment/tweets_lemm_test.csv
 sentiment/tweets_lemm_train.csv
 taxi/
 wikishop/
+fruits/
